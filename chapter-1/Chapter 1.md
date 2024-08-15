@@ -38,7 +38,7 @@ they are being made in algorithms as well.
 - fast networking, both wired and wireless
 
 
-<img src="(../1.png)">
+![alt text](../1.png)
 
 
 
