@@ -6,4 +6,4 @@ some value, or set of values, as input and produces some value, or set of values
 output. An algorithm is thus a sequence of computational steps that transform the
 input into the output.
 
-<img src="1.png" width="128"/>
+<img src="1.png" width="150"/>
